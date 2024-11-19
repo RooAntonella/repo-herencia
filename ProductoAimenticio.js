@@ -36,4 +36,5 @@ class Producto {
   console.log("Nombre del Producto:", pan.name);
   console.log("Precio:", pan.getPrice());
   console.log("Fecha de Caducidad:", pan.fechaCaducidad.toDateString());
+  console.log("vino otra persona y le metio este cambio");
 
